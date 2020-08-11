@@ -3,7 +3,7 @@
 If you built a new cool PHP library or wrote a blog post and want more people to see it, send me the link on Twitter [@pronskiy](https://twitter.com/pronskiy).
 
 
-- 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
 - 📫 How to reach me: 
   - Twitter: [@pronskiy](https://twitter.com/pronskiy)
   - Telegram: [pronskiy](https://t.me/pronskiy)
