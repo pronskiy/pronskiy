@@ -7,8 +7,6 @@ If you built a new cool PHP library or wrote a blog post and want more people to
 - 📫 How to reach me: 
   - Twitter: [@pronskiy](https://twitter.com/pronskiy)
   - Telegram: [pronskiy](https://t.me/pronskiy)
-  - Facebook: [pronskiy](https://facebook.com/pronskiy)
-  - Instagram: [pronskiy](https://instagram.com/pronskiy)
 
 <!--
 **pronskiy/pronskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
