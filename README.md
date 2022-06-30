@@ -1,15 +1,25 @@
 ### Hi there 👋
 
-If you built a new cool PHP library or wrote a blog post and want more people to see it, send me the link on Twitter [@pronskiy](https://twitter.com/pronskiy).
+My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm passionate about PHP and web development, tech, and electronic music.
 
+**👷 I'm currently working on:**
+- [PhpStorm](https://jetbrains.com/phpstorm/) marketing
+- [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
+- [PHP Foundation](http://thephp.foundation/) coordination
 
-- 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
-- 📫 How to reach me: 
-  - Twitter: [@pronskiy](https://twitter.com/pronskiy)
-  - Telegram: [pronskiy](https://t.me/pronskiy)
+**📫 How to reach me:**
+- Twitter: [@pronskiy](https://twitter.com/pronskiy)
+- Email: roman at pronskiy.com
+- Telegram: [@pronskiy](https://t.me/pronskiy)
 
 <!--
-**pronskiy/pronskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📜 My recent blog posts (in English)**
+
+@TODO
+-->
+
+<!--
+- 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
 
 Here are some ideas to get you started:
 
