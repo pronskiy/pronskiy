@@ -16,7 +16,7 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 - [PhpStorm 2022.1 RC](https://blog.jetbrains.com/phpstorm/2022/04/phpstorm-2022-1-rc/)
 <!-- BLOG-POST-LIST:END -->
 
-**📫 How to reach me:**
+**📫 How to reach out to me:**
 - Twitter: [@pronskiy](https://twitter.com/pronskiy)
 - Email: roman at pronskiy.com
 - Telegram: [@pronskiy](https://t.me/pronskiy)
