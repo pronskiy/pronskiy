@@ -7,16 +7,15 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
 - [PHP Foundation](http://thephp.foundation/) coordination
 
+**📜 My latest blog posts:**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 **📫 How to reach me:**
 - Twitter: [@pronskiy](https://twitter.com/pronskiy)
 - Email: roman at pronskiy.com
 - Telegram: [@pronskiy](https://t.me/pronskiy)
 
-<!--
-**📜 My recent blog posts (in English)**
-
-@TODO
--->
 
 <!--
 - 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
