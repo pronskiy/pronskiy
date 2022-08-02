@@ -21,6 +21,8 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 - Email: roman at pronskiy.com
 - Telegram: [@pronskiy](https://t.me/pronskiy)
 
+**☕️ Buy me a coffee:**
+- https://www.buymeacoffee.com/pronskiy
 
 <!--
 - 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
