@@ -14,4 +14,9 @@ jobs:
       - name: Pull phpstorm posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.jetbrains.com/author/rpronskiy/feed/,https://thephp.foundation/rss/roman_pronskiy.xml"
+          max_post_count: 7
+          feed_list: [
+            'https://pronskiy.com/atom.xml',
+            'https://blog.jetbrains.com/author/rpronskiy/feed/',
+            'https://thephp.foundation/rss/roman_pronskiy.xml',
+          ]
