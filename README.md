@@ -9,11 +9,11 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [PHP Annotated – June 2022](https://blog.jetbrains.com/phpstorm/2022/06/php-annotated-june-2022/)
-- [PhpStorm 2022.1.2 Has Been Released](https://blog.jetbrains.com/phpstorm/2022/06/phpstorm-2022-1-2-is-released/)
-- [PHP Annotated – May 2022](https://blog.jetbrains.com/phpstorm/2022/05/php-annotated-may-2022/)
-- [PHP Annotated — 2022 Spring Catch-up](https://blog.jetbrains.com/phpstorm/2022/05/php-annotated-2022-spring-catch-up/)
-- [PhpStorm 2022.1 RC](https://blog.jetbrains.com/phpstorm/2022/04/phpstorm-2022-1-rc/)
+- [PHP Annotated – October 2022](https://blog.jetbrains.com/phpstorm/2022/11/php-annotated-october-2022/)
+- [PhpStorm 2022.3 Early Access #5](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-early-access-5/)
+- [PhpStorm 2022.3 Early Access #4: New Settings Sync](https://blog.jetbrains.com/phpstorm/2022/10/phpstorm-2022-3-early-access-4-new-settings-sync/)
+- [PhpStorm 2022.3 Early Access #3: Support for PHP 8.2](https://blog.jetbrains.com/phpstorm/2022/10/phpstorm-2022-3-early-access-3-support-for-php-8-2/)
+- [PhpStorm 2022.3 Early Access #2: Code Vision](https://blog.jetbrains.com/phpstorm/2022/10/phpstorm-2022-3-early-access-2-code-vision/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
