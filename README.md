@@ -11,9 +11,11 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 <!-- BLOG-POST-LIST:START -->
 - [PHP Annotated – October 2022](https://blog.jetbrains.com/phpstorm/2022/11/php-annotated-october-2022/)
 - [PhpStorm 2022.3 Early Access #5](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-early-access-5/)
+- [Generics via Attributes in PHP &amp;amp;mdash; Can We Have Them?](https://pronskiy.com/blog/generics-via-attributes-in-php/)
 - [PhpStorm 2022.3 Early Access #4: New Settings Sync](https://blog.jetbrains.com/phpstorm/2022/10/phpstorm-2022-3-early-access-4-new-settings-sync/)
 - [PhpStorm 2022.3 Early Access #3: Support for PHP 8.2](https://blog.jetbrains.com/phpstorm/2022/10/phpstorm-2022-3-early-access-3-support-for-php-8-2/)
 - [PhpStorm 2022.3 Early Access #2: Code Vision](https://blog.jetbrains.com/phpstorm/2022/10/phpstorm-2022-3-early-access-2-code-vision/)
+- [PHP Annotated – September 2022](https://blog.jetbrains.com/phpstorm/2022/10/php-annotated-september-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
