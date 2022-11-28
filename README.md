@@ -9,12 +9,12 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [PhpStorm 2022.3 RC](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-rc)
+- [PhpStorm 2022.3 RC](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-rc/)
 - [The PHP Foundation: Impact and Transparency Report 2022](https://thephp.foundation/blog/2022/11/22/transparency-and-impact-report-2022/)
-- [PhpStorm 2022.3 Beta 2](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-beta-2)
-- [PhpStorm 2022.3 Beta](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-beta)
-- [PHP Annotated – October 2022](https://blog.jetbrains.com/phpstorm/2022/11/php-annotated-october-2022)
-- [PhpStorm 2022.3 Early Access #5](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-early-access-5)
+- [PhpStorm 2022.3 Beta 2](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-beta-2/)
+- [PhpStorm 2022.3 Beta](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-beta/)
+- [PHP Annotated – October 2022](https://blog.jetbrains.com/phpstorm/2022/11/php-annotated-october-2022/)
+- [PhpStorm 2022.3 Early Access #5](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-early-access-5/)
 - [Generics via Attributes in PHP &amp;amp;mdash; Can We Have Them?](https://pronskiy.com/blog/generics-via-attributes-in-php/)
 <!-- BLOG-POST-LIST:END -->
 
