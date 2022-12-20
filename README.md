@@ -9,13 +9,13 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [PHP Annotated – December 2022](https://blog.jetbrains.com/phpstorm/2022/12/php-annotated-december-2022/)
 - [PhpStorm 2022.3.1 Preview](https://blog.jetbrains.com/phpstorm/2022/12/phpstorm-2022-3-1-preview/)
 - [PhpStorm 2022.3: PHP 8.2, New UI &lpar;Beta&rpar;, Code Vision, Redis Support, Quick-Fixes Preview, and More](https://blog.jetbrains.com/phpstorm/2022/12/phpstorm-2022-3-whats-new/)
 - [PhpStorm 2022.3 RC2](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-rc2/)
 - [PhpStorm 2022.3 RC](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-rc/)
 - [The PHP Foundation: Impact and Transparency Report 2022](https://thephp.foundation/blog/2022/11/22/transparency-and-impact-report-2022/)
 - [PhpStorm 2022.3 Beta 2](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-beta-2/)
-- [PhpStorm 2022.3 Beta](https://blog.jetbrains.com/phpstorm/2022/11/phpstorm-2022-3-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
