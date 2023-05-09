@@ -9,13 +9,13 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [PhpStorm 2023.1.1 is released](https://blog.jetbrains.com/phpstorm/2023/05/phpstorm-2023-1-1-is-released/)
+- [PHP Annotated – April 2023](https://blog.jetbrains.com/phpstorm/2023/04/php-annotated-april-2023/)
+- [What’s New In PhpStorm 2023.1: New UI Features, Better Performance, 3v4l Support, and More](https://blog.jetbrains.com/phpstorm/2023/04/phpstorm-2023-1/)
 - [PHP Foundation Update, March 2023](https://thephp.foundation/blog/2023/03/31/php-foundation-update-march-2023/)
-- [The PHP Foundation: Impact and Transparency Report 2022](https://thephp.foundation/blog/2022/11/22/transparency-and-impact-report-2022/)
-- [Generics via Attributes in PHP &amp;amp;mdash; Can We Have Them?](https://pronskiy.com/blog/generics-via-attributes-in-php/)
-- [PHP Foundation Update, July 2022](https://thephp.foundation/blog/2022/08/04/php-foundation-update-july-2022/)
-- [PHP Foundation Update, June 2022](https://thephp.foundation/blog/2022/07/04/php-foundation-update-june-2022/)
-- [PHP Foundation Update, May 2022](https://thephp.foundation/blog/2022/06/01/php-foundation-update-may-2022/)
-- [PHP Foundation Update, April 2022](https://thephp.foundation/blog/2022/05/02/the-php-foundation-update-april-2022/)
+- [PhpStorm 2023.1 RC2](https://blog.jetbrains.com/phpstorm/2023/03/phpstorm-2023-1-rc2/)
+- [PhpStorm 2023.1 RC](https://blog.jetbrains.com/phpstorm/2023/03/phpstorm-2023-1-rc/)
+- [PhpStorm 2022.2.5 is now available](https://blog.jetbrains.com/phpstorm/2023/03/phpstorm-2022-2-5-is-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
