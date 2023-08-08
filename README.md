@@ -9,13 +9,13 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [PHP Core Roundup #13](https://thephp.foundation/blog/2023/06/06/php-core-roundup-13/)
-- [PHP Foundation Update, March 2023](https://thephp.foundation/blog/2023/03/31/php-foundation-update-march-2023/)
-- [The PHP Foundation: Impact and Transparency Report 2022](https://thephp.foundation/blog/2022/11/22/transparency-and-impact-report-2022/)
-- [Generics via Attributes in PHP &amp;amp;mdash; Can We Have Them?](https://pronskiy.com/blog/generics-via-attributes-in-php/)
-- [PHP Foundation Update, July 2022](https://thephp.foundation/blog/2022/08/04/php-foundation-update-july-2022/)
-- [PHP Foundation Update, June 2022](https://thephp.foundation/blog/2022/07/04/php-foundation-update-june-2022/)
-- [PHP Foundation Update, May 2022](https://thephp.foundation/blog/2022/06/01/php-foundation-update-may-2022/)
+- [PhpStorm 2023.2 Is Now Available](https://blog.jetbrains.com/phpstorm/2023/08/phpstorm-2023-2-is-now-available/)
+- [PHP Annotated – July 2023](https://blog.jetbrains.com/phpstorm/2023/08/php-annotated-july-2023/)
+- [PhpStorm 2023.2 EAP #6](https://blog.jetbrains.com/phpstorm/2023/07/phpstorm-2023-2-eap-6/)
+- [PhpStorm 2023.1.3 is released](https://blog.jetbrains.com/phpstorm/2023/06/phpstorm-2023-1-3-is-released/)
+- [PhpStorm 2023.2 EAP #4](https://blog.jetbrains.com/phpstorm/2023/06/phpstorm-2023-2-eap-4/)
+- [PHP Annotated – June 2023](https://blog.jetbrains.com/phpstorm/2023/06/php-annotated-june-2023/)
+- [PhpStorm 2023.2 EAP #3](https://blog.jetbrains.com/phpstorm/2023/06/phpstorm-2023-2-eap-3/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
