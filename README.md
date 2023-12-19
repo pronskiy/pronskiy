@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm passionate about PHP and web development, tech, and electronic music.
+My name is Roman Pronskiy, I’m a Developer Advocate @JetBrains. I'm passionate about PHP and web development, tech, and electronic music.
 
 **👷 I'm currently working on:**
-- [PhpStorm](https://jetbrains.com/phpstorm/) marketing
+- [PHP Foundation](http://thephp.foundation/) operations
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
-- [PHP Foundation](http://thephp.foundation/) coordination
+- ~~[PhpStorm](https://jetbrains.com/phpstorm/) marketing~~
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
@@ -19,10 +19,10 @@ My name is Roman Pronskiy, I’m a Product Marketing Manager @JetBrains. I'm pas
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
-- Twitter: [@pronskiy](https://twitter.com/pronskiy)
+- Follow me on X/Twitter: [@pronskiy](https://twitter.com/pronskiy)
+- Connect on LinkedIn: [/in/pronskiy/](https://www.linkedin.com/in/pronskiy/)
 - Email: roman at pronskiy.com
 - Telegram: [@pronskiy](https://t.me/pronskiy)
-- Connect on LinkedIn: [/in/pronskiy/](https://www.linkedin.com/in/pronskiy/)
 
 <!--
 - 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
