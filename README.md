@@ -5,7 +5,7 @@ My name is Roman Pronskiy, I’m a Developer Advocate @JetBrains. I'm passionate
 **👷 I'm currently working on:**
 - [PHP Foundation](http://thephp.foundation/) operations
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
-- ~~[PhpStorm](https://jetbrains.com/phpstorm/) marketing~~
+- [PhpStorm](https://jetbrains.com/phpstorm/) advocacy
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
@@ -20,8 +20,9 @@ Team Update 2024](https://thephp.foundation/blog/2024/01/03/the-php-foundation-t
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
-- Follow me on X/Twitter: [@pronskiy](https://twitter.com/pronskiy)
+- Follow X/Twitter: [@pronskiy](https://twitter.com/pronskiy)
 - Connect on LinkedIn: [/in/pronskiy/](https://www.linkedin.com/in/pronskiy/)
+- Follow Mastodon: [@pronskiy@phpc.social](https://phpc.social/@pronskiy)
 - Email: roman at pronskiy.com
 - Telegram: [@pronskiy](https://t.me/pronskiy)
 
