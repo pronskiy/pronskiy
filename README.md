@@ -7,6 +7,10 @@ My name is Roman Pronskiy, I’m a Developer Advocate @JetBrains. I'm passionate
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
 - [PhpStorm](https://jetbrains.com/phpstorm/) advocacy
 
+**📺 My latest videos:**
+- [Benchmarking Laravel with Swoole, FrankenPHP, RoadRunner, php-fpm, and ngx-php](https://www.youtube.com/watch?v=ZB129Tjkas8)
+- [Running PHP 1.0 in 2024](https://www.youtube.com/watch?v=0BPExYh5Anw)
+
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
 - [PHP Annotated – June 2024](https://blog.jetbrains.com/phpstorm/2024/07/php-annotated-june-2024/)
