@@ -13,13 +13,13 @@ My name is Roman Pronskiy, I’m a Developer Advocate @JetBrains. I'm passionate
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [The PHP Foundation application form for 2025 is now open](https://thephp.foundation/blog/2024/09/17/application-form-2025/)
 - [PHP Foundation Update, September 2024](https://thephp.foundation/blog/2024/09/12/php-foundation-update-september-2024/)
 - [PHP Annotated – September 2024](https://blog.jetbrains.com/phpstorm/2024/09/php-annotated-september-2024/)
 - [PHP Annotated – June 2024](https://blog.jetbrains.com/phpstorm/2024/07/php-annotated-june-2024/)
 - [Running PHP 1.0 in 2024](https://pronskiy.com/blog/running-php-1-in-2024/)
 - [PHP Annotated – May 2024](https://blog.jetbrains.com/phpstorm/2024/06/php-annotated-may-2024/)
 - [PHP Annotated – April 2024](https://blog.jetbrains.com/phpstorm/2024/04/php-annotated-april-2024/)
-- [Joining Forces for Open Source Cybersecurity Standards](https://thephp.foundation/blog/2024/04/02/open-source-community-cra-compliance-initiative/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
