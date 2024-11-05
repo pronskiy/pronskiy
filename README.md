@@ -3,11 +3,12 @@
 My name is Roman Pronskiy, I’m a Developer Advocate @JetBrains. I'm passionate about PHP and web development, tech, and electronic music.
 
 **👷 I'm currently working on:**
-- [PHP Foundation](http://thephp.foundation/) operations
+- [The PHP Foundation](http://thephp.foundation/) as its Executive Director
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
 - [PhpStorm](https://jetbrains.com/phpstorm/) advocacy
 
 **📺 My latest videos:**
+- [Inside Laracon 2024: PHP's Festival of Innovation and Connection](https://www.youtube.com/watch?v=WDitiAjJg7g)
 - [Benchmarking Laravel with Swoole, FrankenPHP, RoadRunner, php-fpm, and ngx-php](https://www.youtube.com/watch?v=ZB129Tjkas8)
 - [Running PHP 1.0 in 2024](https://www.youtube.com/watch?v=0BPExYh5Anw)
 
