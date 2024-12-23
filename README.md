@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roman Pronskiy, I’m a Developer Advocate @JetBrains. I'm passionate about PHP and web development, tech, and electronic music.
+My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](https://thephp.foundation/) and a Developer Advocate at [JetBrains](https://www.jetbrains.com/). I'm passionate about PHP and web development, tech, and electronic music.
 
 **👷 I'm currently working on:**
 - [The PHP Foundation](http://thephp.foundation/) as its Executive Director
