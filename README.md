@@ -16,7 +16,7 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 <!-- BLOG-POST-LIST:START -->
 - [Happy Holidays from&amp;nbsp;The&amp;nbsp;PHP&amp;nbsp;Foundation!](https://thephp.foundation/blog/2024/12/23/happy-holidays-from-the-php-foundation/)
 - [The PHP Foundation Turns Three!](https://thephp.foundation/blog/2024/11/22/php-foundation-turns-three/)
-- [PHP Annotated – October 2024](https://blog.jetbrains.com/phpstorm/2024/10/php-annotated-october-2024)
+- [PHP Annotated – October 2024](https://blog.jetbrains.com/phpstorm/2024/10/php-annotated-october-2024/)
 - [The PHP Foundation Supports The Open Source Pledge](https://thephp.foundation/blog/2024/10/08/open-source-pledge/)
 - [The PHP Foundation Calls for Sponsors: Help&amp;nbsp;Shape the Future of PHP](https://thephp.foundation/blog/2024/09/30/call-fo-sponsors/)
 - [The PHP Foundation application form for 2025 is now open](https://thephp.foundation/blog/2024/09/17/application-form-2025/)
