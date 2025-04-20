@@ -19,9 +19,9 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 - [Welcoming Passbolt to the PHP Foundation](https://thephp.foundation/blog/2025/04/03/welcoming-passbolt-to-the-php-foundation/)
 - [The PHP Foundation: Impact and Transparency Report 2024](https://thephp.foundation/blog/2025/03/31/transparency-and-impact-report-2024/)
 - [Proud to Be Community Sponsors of Laracon EU and Laracon India](https://thephp.foundation/blog/2025/01/31/laracons/)
+- [PHP Annotated – January 2025](https://blog.jetbrains.com/phpstorm/2025/01/php-annotated-january-2025/)
 - [Happy Holidays from&amp;nbsp;The&amp;nbsp;PHP&amp;nbsp;Foundation!](https://thephp.foundation/blog/2024/12/23/happy-holidays-from-the-php-foundation/)
 - [The PHP Foundation Turns Three!](https://thephp.foundation/blog/2024/11/22/php-foundation-turns-three/)
-- [The PHP Foundation Supports The Open Source Pledge](https://thephp.foundation/blog/2024/10/08/open-source-pledge/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
