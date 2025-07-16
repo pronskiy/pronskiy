@@ -4,8 +4,8 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 
 **👷 I'm currently working on:**
 - [The PHP Foundation](http://thephp.foundation/) as its Executive Director
+- [PhpStorm](https://jetbrains.com/phpstorm/) as its Product Lead
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
-- [PhpStorm](https://jetbrains.com/phpstorm/) advocacy
 
 **📺 My latest videos:**
 - [MCP – What is that?](https://www.youtube.com/watch?v=qPVtVulhFC4)
