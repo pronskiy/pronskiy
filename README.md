@@ -15,13 +15,13 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the Official PHP SDK for MCP](https://thephp.foundation/blog/2025/09/05/php-mcp-sdk/)
-- [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
 - [PHP Annotated – May 2025](https://blog.jetbrains.com/phpstorm/2025/05/php-annotated-may-2025/)
-- [FrankenPHP Is Now Officially Supported by&amp;nbsp;The&amp;nbsp;PHP&amp;nbsp;Foundation](https://thephp.foundation/blog/2025/05/15/frankenphp/)
-- [Meet Manychat: A PHP Foundation Sponsor Sharing Their PHP Scaling Journey](https://thephp.foundation/blog/2025/05/09/manychat-powered-by-php/)
-- [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
-- [Welcoming Passbolt to the PHP Foundation](https://thephp.foundation/blog/2025/04/03/welcoming-passbolt-to-the-php-foundation/)
+- [PHP Annotated – January 2025](https://blog.jetbrains.com/phpstorm/2025/01/php-annotated-january-2025/)
+- [PHP Annotated – October 2024](https://blog.jetbrains.com/phpstorm/2024/10/php-annotated-october-2024/)
+- [PHP Annotated – September 2024](https://blog.jetbrains.com/phpstorm/2024/09/php-annotated-september-2024/)
+- [PHP Annotated – June 2024](https://blog.jetbrains.com/phpstorm/2024/07/php-annotated-june-2024/)
+- [Running PHP 1.0 in 2024](https://pronskiy.com/blog/running-php-1-in-2024/)
+- [PHP Annotated – May 2024](https://blog.jetbrains.com/phpstorm/2024/06/php-annotated-may-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
