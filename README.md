@@ -17,11 +17,11 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 <!-- BLOG-POST-LIST:START -->
 - [Announcing the Official PHP SDK for MCP](https://thephp.foundation/blog/2025/09/05/php-mcp-sdk/)
 - [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
+- [PHP Annotated – May 2025](https://blog.jetbrains.com/phpstorm/2025/05/php-annotated-may-2025/)
 - [FrankenPHP Is Now Officially Supported by&amp;nbsp;The&amp;nbsp;PHP&amp;nbsp;Foundation](https://thephp.foundation/blog/2025/05/15/frankenphp/)
 - [Meet Manychat: A PHP Foundation Sponsor Sharing Their PHP Scaling Journey](https://thephp.foundation/blog/2025/05/09/manychat-powered-by-php/)
 - [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
 - [Welcoming Passbolt to the PHP Foundation](https://thephp.foundation/blog/2025/04/03/welcoming-passbolt-to-the-php-foundation/)
-- [The PHP Foundation: Impact and Transparency Report 2024](https://thephp.foundation/blog/2025/03/31/transparency-and-impact-report-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
