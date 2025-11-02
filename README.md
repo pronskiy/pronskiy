@@ -20,7 +20,7 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 - [Welcoming Joe Watkins as a PHP Foundation Developer](https://thephp.foundation/blog/2025/09/25/joe-watkins/)
 - [Announcing the Official PHP SDK for MCP](https://thephp.foundation/blog/2025/09/05/php-mcp-sdk/)
 - [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
-- [PHP Annotated – May 2025](https://blog.jetbrains.com/phpstorm/2025/05/php-annotated-may-2025)
+- [PHP Annotated – May 2025](https://blog.jetbrains.com/phpstorm/2025/05/php-annotated-may-2025/)
 - [FrankenPHP Is Now Officially Supported by&amp;nbsp;The&amp;nbsp;PHP&amp;nbsp;Foundation](https://thephp.foundation/blog/2025/05/15/frankenphp/)
 <!-- BLOG-POST-LIST:END -->
 
