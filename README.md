@@ -15,13 +15,13 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Design Contest Results and Lessons Learned](https://thephp.foundation/blog/2025/11/05/design-contest-results/)
 - [PhpStorm Plugins You Might Not Know](https://blog.jetbrains.com/phpstorm/2025/11/phpstorm-plugins-you-might-not-know/)
 - [Call for Designs: Refresh the PHP 8.5 Release Page](https://thephp.foundation/blog/2025/10/01/design-contest/)
 - [The PHP Foundation application form for 2026 is now open](https://thephp.foundation/blog/2025/09/30/application-form-2026/)
 - [Welcoming Joe Watkins as a PHP Foundation Developer](https://thephp.foundation/blog/2025/09/25/joe-watkins/)
 - [Announcing the Official PHP SDK for MCP](https://thephp.foundation/blog/2025/09/05/php-mcp-sdk/)
 - [30 years of PHP: FrankenPHP is now part of the PHP organisation](https://thephp.foundation/blog/2025/06/08/php-30/)
-- [PHP Annotated – May 2025](https://blog.jetbrains.com/phpstorm/2025/05/php-annotated-may-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
