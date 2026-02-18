@@ -10,8 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull phpstorm posts
+        uses: actions/checkout@v3
+      - name: Pull latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 10
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCm8vJ72tXxDJEibQTZpRr3Q"
+      - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 7

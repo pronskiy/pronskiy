@@ -8,10 +8,12 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 - [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
 
 **📺 My latest videos:**
+<!-- YOUTUBE-VIDEOS-LIST:START -->
 - [MCP – What is that?](https://www.youtube.com/watch?v=qPVtVulhFC4)
 - [Inside Laracon 2024: PHP's Festival of Innovation and Connection](https://www.youtube.com/watch?v=WDitiAjJg7g)
 - [Benchmarking Laravel with Swoole, FrankenPHP, RoadRunner, php-fpm, and ngx-php](https://www.youtube.com/watch?v=ZB129Tjkas8)
 - [Running PHP 1.0 in 2024](https://www.youtube.com/watch?v=0BPExYh5Anw)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
@@ -30,18 +32,3 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 - Follow Mastodon: [@pronskiy@phpc.social](https://phpc.social/@pronskiy)
 - Email: roman at pronskiy.com
 - Telegram: [@pronskiy](https://t.me/pronskiy)
-
-<!--
-- 💬 Ask me about [PhpStorm](https://www.jetbrains.com/phpstorm/) and PHP.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
