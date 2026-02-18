@@ -9,8 +9,11 @@ My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](
 
 **📺 My latest videos:**
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [These AI Dev Tools Changed How I Code This Week](https://www.youtube.com/watch?v=nOCWaoqeBA0)
+- [Claude Code tricks, Wispr, Superpowers, PHP news – This Week’s Dev Gems](https://www.youtube.com/watch?v=Rc-ttLlstC8)
+- [Happy Birthday PHP! I&#39;m building LEGO elephpant!](https://www.youtube.com/watch?v=mmsKDVAvrbw)
 - [MCP – What is that?](https://www.youtube.com/watch?v=qPVtVulhFC4)
-- [Inside Laracon 2024: PHP's Festival of Innovation and Connection](https://www.youtube.com/watch?v=WDitiAjJg7g)
+- [Inside Laracon 2024: PHP&#39;s Festival of Innovation and Connection](https://www.youtube.com/watch?v=WDitiAjJg7g)
 - [Benchmarking Laravel with Swoole, FrankenPHP, RoadRunner, php-fpm, and ngx-php](https://www.youtube.com/watch?v=ZB129Tjkas8)
 - [Running PHP 1.0 in 2024](https://www.youtube.com/watch?v=0BPExYh5Anw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
