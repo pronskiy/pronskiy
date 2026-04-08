@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-My name is Roman Pronskiy, I’m the Executive Director of [The PHP Foundation](https://thephp.foundation/) and the Product Lead for [PhpStorm](https://www.jetbrains.com/phpstorm/) at [JetBrains](https://www.jetbrains.com/). I'm passionate about PHP and web development, AI, tech, and electronic music.
-
-**👷 I'm currently working on:**
-- [The PHP Foundation](http://thephp.foundation/) as its Executive Director
-- [PhpStorm](https://jetbrains.com/phpstorm/) as its Product Lead
-- [PHP Annotated](https://info.jetbrains.com/PHP-Annotated-Subscription.html) newsletter
+My name is Roman Pronskiy, I am the Head of [PhpStorm](https://www.jetbrains.com/phpstorm/) at [JetBrains](https://www.jetbrains.com/) and Board member at [The PHP Foundation](https://thephp.foundation/). I'm passionate about PHP and web development, AI, tech, and electronic music.
 
 **📺 My latest videos:**
 <!-- YOUTUBE-VIDEOS-LIST:START -->
