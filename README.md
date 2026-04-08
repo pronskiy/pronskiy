@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Roman Pronskiy, I am the Head of [PhpStorm](https://www.jetbrains.com/phpstorm/) at [JetBrains](https://www.jetbrains.com/) and Board member at [The PHP Foundation](https://thephp.foundation/). I'm passionate about PHP and web development, AI, tech, and electronic music.
+My name is Roman Pronskiy, I lead [PhpStorm](https://www.jetbrains.com/phpstorm/) at [JetBrains](https://www.jetbrains.com/) and serve on the board of [The PHP Foundation](https://thephp.foundation/).  
+I'm passionate about PHP and web development, AI, tech, and electronic music.
 
 **📺 My latest videos:**
 <!-- YOUTUBE-VIDEOS-LIST:START -->
