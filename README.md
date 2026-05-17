@@ -18,7 +18,7 @@ I'm passionate about PHP and web development, AI, tech, and electronic music.
 <!-- BLOG-POST-LIST:START -->
 - [Meet team.blue: A PHP Foundation Sponsor supporting the language at the core of its ecosystem](https://thephp.foundation/blog/2026/01/26/meet-team-blue-php-foundation-sponsor/)
 - [Design Contest Results and Lessons Learned](https://thephp.foundation/blog/2025/11/05/design-contest-results/)
-- [PhpStorm Plugins You Might Not Know About](https://blog.jetbrains.com/phpstorm/2025/11/phpstorm-plugins-you-might-not-know/)
+- [PhpStorm Plugins You Might Not Know About](https://blog.jetbrains.com/phpstorm/2025/11/phpstorm-plugins-you-might-not-know)
 - [Call for Designs: Refresh the PHP 8.5 Release Page](https://thephp.foundation/blog/2025/10/01/design-contest/)
 - [The PHP Foundation application form for 2026 is now open](https://thephp.foundation/blog/2025/09/30/application-form-2026/)
 - [Welcoming Joe Watkins as a PHP Foundation Developer](https://thephp.foundation/blog/2025/09/25/joe-watkins/)
