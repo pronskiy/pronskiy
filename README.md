@@ -17,6 +17,7 @@ I'm passionate about knowledge graphs and context infrastructure, AI, tech, and 
 
 **📜 My latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 - [Meet team.blue: A PHP Foundation Sponsor supporting the language at the core of its ecosystem](https://thephp.foundation/blog/2026/01/26/meet-team-blue-php-foundation-sponsor/)
 - [Design Contest Results and Lessons Learned](https://thephp.foundation/blog/2025/11/05/design-contest-results/)
 - [PhpStorm Plugins You Might Not Know About](https://blog.jetbrains.com/phpstorm/2025/11/phpstorm-plugins-you-might-not-know/)
@@ -24,7 +25,6 @@ I'm passionate about knowledge graphs and context infrastructure, AI, tech, and 
 - [The PHP Foundation application form for 2026 is now open](https://thephp.foundation/blog/2025/09/30/application-form-2026/)
 - [Welcoming Joe Watkins as a PHP Foundation Developer](https://thephp.foundation/blog/2025/09/25/joe-watkins/)
 - [Announcing the Official PHP SDK for MCP](https://thephp.foundation/blog/2025/09/05/php-mcp-sdk/)
-<!-- BLOG-POST-LIST:END -->
 
 **📫 How to reach out to me:**
 - Follow X/Twitter: [@pronskiy](https://twitter.com/pronskiy)

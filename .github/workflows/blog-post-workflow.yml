@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 0 * * 1' # Runs weekly, Monday at midnight UTC
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
@@ -11,14 +11,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Pull latest blog posts
+        # Only recent pronskiy.com posts go between the BLOG-POST-LIST markers.
+        # Older posts are kept as a static list in the README below the markers.
+        # With zero recent posts the action leaves the README untouched.
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 7
+          feed_list: "https://pronskiy.com/atom.xml"
+          filter_dates: "daysAgo/365/"
       - name: Pull latest YouTube videos
+        # YouTube's RSS endpoint intermittently returns 404 to GitHub runners.
+        # Don't let that block the blog post update above.
+        continue-on-error: true
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 10
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCm8vJ72tXxDJEibQTZpRr3Q"
-      - name: Pull latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: 7
-          feed_list: "https://pronskiy.com/atom.xml,https://blog.jetbrains.com/author/rpronskiy/feed/,https://thephp.foundation/rss/roman_pronskiy.xml"
