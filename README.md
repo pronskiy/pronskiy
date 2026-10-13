@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roman Pronskiy, I work at [Modern Relay](https://modernrelay.com/), where I drive [Omnigraph](https://www.omnigraph.dev/) – a git-style graph database for AI agents.  
+My name is Roman Pronskiy, I work at [Modern Relay](https://modernrelay.com/), where I drive [Omnigraph](https://github.com/ModernRelay/omnigraph) – a git-style graph database for AI agents.  
 Previously, I was the founding executive director of [The PHP Foundation](https://thephp.foundation/) and led [PhpStorm](https://www.jetbrains.com/phpstorm/) at [JetBrains](https://www.jetbrains.com/).  
 I'm passionate about knowledge graphs and context infrastructure, AI, tech, and electronic music.
 
